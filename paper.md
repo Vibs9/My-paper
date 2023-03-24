@@ -1,4 +1,5 @@
-# MEGAPONERA
+<<<<<<< HEAD
+# ECITON
 Blah blah blah
 Vibs, Uni Wue
 Bejoy, Unil
